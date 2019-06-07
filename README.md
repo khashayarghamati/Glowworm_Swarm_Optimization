@@ -3,7 +3,7 @@
 # Glowworm Swarm Optimization
 
 
-![alt text](http://www.fireflyexperience.org/photos/firefly_71142_2.jpg)
+![alt text](https://www.thoughtco.com/thmb/kHLnpFrJK2_2nuO8YRsFYMC2oQk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Fireflies-58c2cf9f5f9b58af5ca9d3d5.jpg)
 
 The glowworm swarm optimization is a swarm intelligence optimization algorithm developed based on the behaviour of glowworms (also known as fireflies or lightning bugs). The GSO algorithm was developed and introduced by K.N. Krishnanand and Debasish Ghose in 2005 at the Guidance, Control, and Decision Systems Laboratory in the Department of Aerospace Engineering at the Indian Institute of Science, Bangalore, India.
 
